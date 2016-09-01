@@ -14,7 +14,7 @@ reply_msg(reply_id, text, ok_cb, false)
 end
 end 
 
-if matches[2] == 'سلام' or 'hi or 'hello' or 'س'
+if matches[2] == 'سلام' or 'hi' or 'hello' or 'س'
      if not is_sudo(msg) then
 
 reply_msg(reply_id, hello_text, OK_cb, false)
