@@ -32,8 +32,8 @@ patterns = {
 "^([Ss][Aa][Ee][Ii][Dd])$",
 "^([Ss][Aa][Ee][Ee][Dd])$",
 "^([Ss][Oo][Ll][Ii][Dd])$",
-"^([Hh][Ii])$"
-"^([Hh][Ee][Ll][Ll][Oo]
+"^([Hh][Ii])$",
+"^([Hh][Ee][Ll][Ll][Oo]",
 },
 run = run
 }
